@@ -1,0 +1,32 @@
+.dataTables_wrapper{}
+
+/*dataTables_length*/
+.dataTables_length label{
+text-align: left;
+width: auto;
+margin: 10px 0;
+}
+
+.dataTables_length label select{
+text-align: left;
+width: auto;
+
+display: block;
+}
+
+/*dataTables_filter*/
+.dataTables_filter{}
+.dataTables_filter label{
+text-align: left;
+width: auto;margin: 10px 0;
+}
+.dataTables_filter label input{display: block;}
+
+/*dataTables_info*/
+.dataTables_info{}
+
+/*dataTables_paginate*/
+.dataTables_paginate{}
+.dataTables_paginate a{
+	line-height: 23px;
+}
